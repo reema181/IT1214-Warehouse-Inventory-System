@@ -81,5 +81,3 @@ public class Warehouse {
     }
 }
 
-
-https://github.com/Aysha-Bilal/IT1214-Warehouse-Inventory-System
